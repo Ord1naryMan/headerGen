@@ -1,3 +1,7 @@
+# Attention
+
+This project is in beta so it may have A LOT of bugs and can work not how you expect it to 
+
 # Info
 
 This project is designed for lazy me.
