@@ -43,7 +43,7 @@ But there is some issues:
 Note: you should use using dirrectives in .cpp file and manually add std:: and everything like this in .h file
 
 
-#Installing
+# Installing
 
 ```sh
 bash install.sh
