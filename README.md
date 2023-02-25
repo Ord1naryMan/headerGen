@@ -34,11 +34,13 @@ Then it automatically create my_header-2.2.h file and write everything here
 Name can differ from example
 
 But there is some issues:
-1) This script just doesn't know names of public and private members of a class so you have to add them manually
-2)This script just doesn't know what functions are public and what are private so you have to add 'public' and 'private' words manually
-3)If you are using std:: or  other stuff like this in junction defenition, script may have undefined behavior
+1. This script just doesn't know names of public and private members of a class so you have to add them manually
 
-Note:you should use using dirrectives in .cpp file and manually add std:: and everything like this in .h file
+2. This script just doesn't know what functions are public and what are private so you have to add 'public' and 'private' words manually
+
+3. If you are using std:: or  other stuff like this in junction defenition, script may have undefined behavior
+
+Note: you should use using dirrectives in .cpp file and manually add std:: and everything like this in .h file
 
 
 #Installing
